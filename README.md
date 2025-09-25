@@ -22,7 +22,9 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
   <img align="center" width="100" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img align="center" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-<p></p>
+
+---
+
 <div> 
   <a href="https://instagram.com/artur._nunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-nunes-318b92352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
