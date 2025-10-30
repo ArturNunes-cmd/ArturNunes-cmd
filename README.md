@@ -1,6 +1,6 @@
 # Olá!!👋, Sou o Artur
 
-Faço Ciencia da computação, atualmente estou UDF em Brasilia no 2º semestre. Gosto de explorar linguagens de programação e ferramentas que me permitam transformar ideias em soluções. Estou em busca de um estágio para aplicar meus conhecimentos, evoluir profissionalmente e desenvolver habilidades técnicas e interpessoais, ampliando minha experiência acadêmica com vivências práticas.
+Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 2º semestre. Gosto de explorar linguagens de programação e ferramentas que me permitam transformar ideias em soluções. Estou em busca de um estágio para aplicar meus conhecimentos, evoluir profissionalmente e desenvolver habilidades técnicas e interpessoais, ampliando minha experiência acadêmica com vivências práticas.
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ArturNunes-cmd&show_icons=true&theme=blue_navy">
