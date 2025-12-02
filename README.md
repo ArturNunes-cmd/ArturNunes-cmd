@@ -5,9 +5,7 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
 <div>
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturNunes-cmd&layout=compact&theme=blue_navy">  
 </div>
-<a href="https://github.com/ArturNunes-cmd/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?ArturNunes-cmd=anuraghazra" />
-</a>
+
 ---
 
 <div style="display: inline_block">
