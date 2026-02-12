@@ -9,16 +9,16 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="`Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="`Excel" height="30" width="40" src="https://img.odcdn.com.br/wp-content/uploads/2017/02/20170213174437.jpg">
-  <img align="center" alt="`Trello" height="30" width="40" src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo-500x281.png">
+  <img align="center" alt="`Trello" height="30" width="50" src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo-500x281.png">
 </div>
 
 ---
 
-<div style="dislpay > inline-block">
-  <img align="center" width="100" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+<div style="dislpay : inline-block">
+  <img align="center" alt="`Trello" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Font_Awesome_logomark_blue.svg/960px-Font_Awesome_logomark_blue.svg.png">
   <img align="center" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" width="100" src="https://img.shields.io/badge/Angular-563D7C?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" width="100" src="https://img.shields.io/badge/Matplotlib-563D7C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img align="center" width="100" src="https://img.shields.io/badge/Matplotlib-226BF2?style=for-the-badge&logo=matplotlib&logoColor=white">
 </div>
 
 ---
