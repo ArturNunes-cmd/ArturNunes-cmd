@@ -8,7 +8,7 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="`Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="`Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="`Excel" height="30" width="40" src="https://img.odcdn.com.br/wp-content/uploads/2017/02/20170213174437.jpg">
 </div>
 
 ---
@@ -16,6 +16,7 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
 <div style="dislpay > inline-block">
   <img align="center" width="100" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img align="center" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" width="100" src="https://img.shields.io/badge/Angular-563D7C?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
 ---
