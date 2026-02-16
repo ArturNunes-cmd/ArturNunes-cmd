@@ -18,6 +18,7 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
   <img align="center" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" width="100" src="https://img.shields.io/badge/Angular-563D7C?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" width="100" src="https://img.shields.io/badge/Matplotlib-226BF2?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img align="center" width="100" src="https://img.shields.io/badge/Trello-226BF2?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
 ---
