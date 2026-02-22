@@ -8,6 +8,7 @@ Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="`Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="`Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="`Excel" height="30" width="40" src="https://img.odcdn.com.br/wp-content/uploads/2017/02/20170213174437.jpg">
 </div>
 
